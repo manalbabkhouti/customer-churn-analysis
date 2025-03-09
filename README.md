@@ -1,4 +1,4 @@
-# 🔥 Customer Churn Prediction - Full Analysis & Insights
+# Customer Churn Prediction - Full Analysis & Insights
 
 
 📚 Project Overview
