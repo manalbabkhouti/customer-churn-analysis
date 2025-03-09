@@ -107,8 +107,8 @@ To further enhance the model and business insights, future work could include:
 
 👤Author
 
-👤 Manal Babkhouti
-📧 **Email:** [babkhoutimanal@gmail.com](mailto:babkhoutimanal@gmail.com)  
-🔗 **GitHub:** [manalbabkhouti](https://github.com/manalbabkhouti)  
-🔗 **LinkedIn:** [Manal Babkhouti](https://www.linkedin.com/in/manal-babkhouti-63b6b722a)  
+👤Manal Babkhouti
+📧**Email:** [babkhoutimanal@gmail.com](mailto:babkhoutimanal@gmail.com)  
+🔗**GitHub:** [manalbabkhouti](https://github.com/manalbabkhouti)  
+🔗**LinkedIn:** [Manal Babkhouti](https://www.linkedin.com/in/manal-babkhouti-63b6b722a)  
 
